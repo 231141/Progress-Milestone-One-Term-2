@@ -4,7 +4,7 @@
 } */
 
 body{
-    background-color: #9e2594;
+    background-color:red;
 }
 
 header{
@@ -34,11 +34,15 @@ header{
 }
 
 .logo{
-    padding-left: 30px;
-    padding-top: 10px; 
     float: left;
-    margin-right: 20px;
-    color: white;
+    width: 45%;
+    padding-top: 10px;
+    
+    width: 277px;
+    height: 277px;
+    background-image: url("/assets/sub_logo-removebg-preview.png");
+    background-position: center;
+    background-size: cover;
     
 }
 
